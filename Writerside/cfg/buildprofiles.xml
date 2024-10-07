@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE buildprofiles SYSTEM "https://resources.jetbrains.com/writerside/1.0/build-profiles.dtd">
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <build-profile instance="es">
+        <variables>
+            <noindex-content>false</noindex-content>
+            <primary-color>iris</primary-color>
+            <color-preset>contrast</color-preset>
+            <download-title>Github</download-title>
+            <download-page>https://github.com/srujanshenoy/</download-page>
+            <showDownloadButton>true</showDownloadButton>
+            <resizable-sidebar>true</resizable-sidebar>
+        </variables>
+        <footer>
+            <social type="youtube" href="https://youtube.com/@TheYoungCreators"/>
+            <social type="email" href="srujanshenoy2@gmail.com"/>
+        </footer>
+    </build-profile>
+
+</buildprofiles>
